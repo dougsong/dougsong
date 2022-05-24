@@ -1,4 +1,7 @@
-### Hi there 👋
+[![HitCount](https://hits.dwyl.com/dougsong/dougsong.svg?style=flat-square)](http://hits.dwyl.com/dougsong/dougsong)
+
+[![Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougsong&line_height=24.5&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougsong&layout=compact&langs_count=8&hide_border=true&card_width=256)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dougsong/dougsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
